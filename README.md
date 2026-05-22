@@ -41,7 +41,7 @@ A real-time hand gesture recognition drawing application powered by OpenCV and G
 
 **Start the application**:
 ```bash
-python firsttry.py
+python file.py
 ```
 
 The app will open a window with:
@@ -96,7 +96,7 @@ The app uses MediaPipe's hand detection model to track:
 
 ## 🛠️ Configuration
 
-Edit the top of `firsttry.py` to customize:
+Edit the top of `file.py` to customize:
 
 ```python
 # Camera settings
@@ -138,10 +138,9 @@ SMOOTH_MOVE = 0.24        # Panning smoothing
 
 ```
 Air writer/
-├── firsttry.py          # Main application (fully commented)
+├── file.py          # Main application (fully commented)
 ├── README.md            # This file
 ├── .gitignore          # Git ignore rules
-└── whiteboard_*.png     # Saved drawings (timestamped)
 ```
 
 ## 💡 Tips & Tricks
