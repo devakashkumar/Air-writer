@@ -6,8 +6,8 @@ A real-time hand gesture recognition drawing application powered by OpenCV and G
 
 - **Gesture-Based Drawing**: Use your index finger to draw on the canvas
 - **Multi-Finger Gestures**:
-  - 🖐️ **Index finger up** → Draw/Erase mode
-  - ✌️ **Two fingers up** → Pan/move canvas
+  - ☝️ **Index finger up** → Draw/Erase mode
+  - 🖐 **palm up** → Pan/move canvas
   - ✊ **Fist (no fingers)** → Idle/pause mode
 - **9 Color Palette**: White, Red, Orange, Yellow, Green, Cyan, Blue, Purple, Pink
 - **Adjustable Brush & Eraser**: Real-time size control
