@@ -142,6 +142,7 @@ Air writer/
 ├── README.md            # This file
 ├── .gitignore          # Git ignore rules
 ```
+Preview video - https://drive.google.com/file/d/1kZSzd5U66wZjVNVw1i7ANwcVLhcGCWOs/view?usp=drive_link
 
 ## 💡 Tips & Tricks
 
